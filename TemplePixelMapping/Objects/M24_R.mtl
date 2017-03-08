@@ -1,0 +1,15 @@
+# Blender MTL File: 'M24_R.blend'
+# Material Count: 1
+
+newmtl Material.006
+Ns 76.470588
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\GameDevelopment\0-BlendSwap\m24_r\BLENDSWAP_NEU\M24_R_DONE\Neuer Ordner\textures\M24R_S.jpg
+map_refl F:\\GameDevelopment\\0-BlendSwap\\m24_r\\BLENDSWAP_NEU\\M24_R_DONE\\Neuer Ordner\\textures\\glanz .jpg
+map_Ks F:\\GameDevelopment\\0-BlendSwap\\m24_r\\BLENDSWAP_NEU\\M24_R_DONE\\Neuer Ordner\\textures\\M24R_S.jpg
+map_Bump F:\\GameDevelopment\\0-BlendSwap\\m24_r\\BLENDSWAP_NEU\\M24_R_DONE\\Neuer Ordner\\textures\\M24R_N.jpg

@@ -1,0 +1,131 @@
+# Blender MTL File: 'Temple2.blend'
+# Material Count: 13
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.023608
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture2.tga
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.030599 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd FanText.png
+
+newmtl Material.001_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.030599 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.001_rockwall.jpg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.030599 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\GameDevelopment\irrlicht-1.8\irrlicht-1.8\TourajGameTests\HelloWorld\HelloWorld\Objects\rockwall.jpg
+
+newmtl Material.001_texture1.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.030599 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture1.tga
+
+newmtl Material.001_texture2.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.030599 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture2.tga
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.034133 0.034133
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\GameDevelopment\irrlicht-1.8\irrlicht-1.8\TourajGameTests\HelloWorld\HelloWorld\Objects\rockwall.jpg
+
+newmtl Material.003
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.273106 0.288557 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BigUrnTex.png
+
+newmtl Material.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.000000 0.062999
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BigUrnTex.png
+
+newmtl Material.005
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.019413 0.300599 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BigUrnTex.png
+
+newmtl Material.006
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd freetextures17.jpg
+
+newmtl Material.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.144624 0.141672 0.147575
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd PipeTex.png
+
+newmtl Material.008
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.426228 0.038960
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd FanText.png

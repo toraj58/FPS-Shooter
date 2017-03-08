@@ -1,0 +1,61 @@
+# Blender MTL File: 'Temple1.blend'
+# Material Count: 6
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.023608
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture2.tga
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.030599 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\GameDevelopment\irrlicht-1.8\irrlicht-1.8\TourajGameTests\HelloWorld\HelloWorld\Objects\rockwall.jpg
+
+newmtl Material.001_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.030599 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.001_texture1.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.030599 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture1.tga
+
+newmtl Material.001_texture2.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.030599 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture2.tga
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.034133 0.034133
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\GameDevelopment\irrlicht-1.8\irrlicht-1.8\TourajGameTests\HelloWorld\HelloWorld\Objects\rockwall.jpg

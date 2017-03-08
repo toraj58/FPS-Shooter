@@ -1,0 +1,67 @@
+# Blender MTL File: 'jessada.blend'
+# Material Count: 6
+
+newmtl Material.001
+Ns 166.666667
+Ka 0.000000 0.000000 0.000000
+Kd 0.057368 0.057368 0.057368
+Ks 0.215322 0.215322 0.215322
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd JessadaText.png
+
+newmtl metal_brazowy
+Ns 37.254902
+Ka 0.000000 0.000000 0.000000
+Kd 0.295686 0.251465 0.182928
+Ks 1.000000 0.789747 0.447994
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd JessadaText.png
+
+newmtl metal_cioemny
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.184464 0.184464 0.184464
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd JessadaText.png
+
+newmtl oko_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.508475 0.285509 0.000000
+Ks 1.000000 1.000000 0.791183
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd JessadaText.png
+
+newmtl siatka
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.053443 0.053443 0.053443
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd JessadaText.png
+map_d F:\\GameDevelopment\\0-BlendSwap\\siec.jpg
+map_Disp F:\\GameDevelopment\\0-BlendSwap\\siec.jpg
+map_Ns F:\\GameDevelopment\\0-BlendSwap\\siec.jpg
+map_Ks F:\\GameDevelopment\\0-BlendSwap\\siec.jpg
+map_Tr F:\\GameDevelopment\\0-BlendSwap\\siec.jpg
+
+newmtl zielony
+Ns 43.137255
+Ka 0.000000 0.000000 0.000000
+Kd 0.069586 0.094622 0.032481
+Ks 0.680296 0.822034 0.327476
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd JessadaText.png

@@ -1,0 +1,23 @@
+# Blender MTL File: 'link2_0_a_104_rifle.blend'
+# Material Count: 2
+
+newmtl Rifle
+Ns 274.509804
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.706460 0.706460 0.706460
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\LiNk\Desktop\A-104_Rifle\A-104_Rifle_diffuse.jpg
+map_Bump C:\\Documents and Settings\\LiNk\\Desktop\\A-104_Rifle\\A-104_Rifle_normal.jpg
+
+newmtl Wires
+Ns 347.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.151142 0.151142 0.151142
+Ks 1.178558 1.178558 1.178558
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\LiNk\Desktop\A-104_Rifle\A-104_Rifle_diffuse.jpg

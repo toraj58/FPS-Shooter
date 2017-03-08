@@ -1,0 +1,15 @@
+﻿Build started 02/03/2017 06:28:42 ق.ظ.
+     1>Project "F:\GameDevelopment\irrlicht-1.8\irrlicht-1.8\TourajGameTests\TemplePixelMapping\TemplePixelMapping\TemplePixelMapping.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp Extras\Tools.cpp MyEventReceiver.cpp
+         Main.cpp
+     1>Main.cpp(5): fatal error C1083: Cannot open include file: 'irrlicht.h': No such file or directory
+         Tools.cpp
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\templepixelmapping\templepixelmapping\extras\Tools.h(3): fatal error C1083: Cannot open include file: 'irrlicht.h': No such file or directory
+         MyEventReceiver.cpp
+     1>f:\gamedevelopment\irrlicht-1.8\irrlicht-1.8\tourajgametests\templepixelmapping\templepixelmapping\MyEventReceiver.h(2): fatal error C1083: Cannot open include file: 'irrlicht.h': No such file or directory
+     1>Done Building Project "F:\GameDevelopment\irrlicht-1.8\irrlicht-1.8\TourajGameTests\TemplePixelMapping\TemplePixelMapping\TemplePixelMapping.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.69
